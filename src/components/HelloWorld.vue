@@ -10,7 +10,10 @@ import Vue from 'vue'
 export default {
   name: 'HelloWorld',
   props: {
-    msg: String
+    msg: {
+      type: String,
+      default: 'Hello World'
+    }
   },
   data () {
     return { version: Vue.version }
