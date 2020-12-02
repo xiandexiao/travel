@@ -12,7 +12,9 @@
     "fastclick": "^1.0.6",
     "less": "^3.12.2",
     "less-loader": "^7.1.0",
+    "swiper": "^6.3.5",
     "vue": "^2.6.11",
+    "vue-awesome-swiper": "^2.6.7",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
