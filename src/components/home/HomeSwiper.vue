@@ -33,6 +33,9 @@ export default {
 </script>
 
 <style lang="less" scoped>
+.wrapper /deep/ .swiper-pagination-bullet-active {
+  background-color: #fff;
+}
 .wrapper {
   height: 0;
   overflow: hidden;
